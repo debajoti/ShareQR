@@ -1,3 +1,3 @@
 # ShareQR
-An URL to QR-Code generator built using NodeJS, ExpressJS.
+ShareQR is an URL to QR-Code generator.
 Link: https://shareqr.onrender.com
